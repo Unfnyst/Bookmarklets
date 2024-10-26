@@ -1,5 +1,5 @@
 <h1>Welcome!</h1>
-Hello! This is Unfnyst's collection of super- awesome bookmarklets! its still a work in progress, but... but what? i dont know.
+Hello! This is Unfnyst's collection of super-awesome bookmarklets! its still a work in progress, but... but what? i dont know. I sometimes use ChatGPT and a bit of my own code to make bookmarklets so.. yeah lol
 
 <h1>What is a Bookmarklet?</h1>
 
