@@ -1,0 +1,1 @@
+javascript:(function(){let count=0; setInterval(()=>{alert("You have clicked the 'OK' button " + count + " times."); count++;}, 20);})();
