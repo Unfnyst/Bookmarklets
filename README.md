@@ -5,9 +5,9 @@ Hello! This is Unfnyst's collection of super- awesome bookmarklets! its still a 
 
 A bookmarklet is a bookmark that runs javascript. This part is a bit complicated, but URLs have a seperate protocol for javascript. Web browsers allow people to put these links in bookmarks.
 
-<h1>How install pls pls pls</h1>
+<h1>How do you run it?</h1>
 
-Copy and paste the javascript into the bookmarks bar. Its that easy.
+Copy and paste the javascript code into the bookmarks bar. It's that easy.
 
 <br>
 <br>
@@ -22,3 +22,6 @@ Copy and paste the javascript into the bookmarks bar. Its that easy.
 <br>
 <br>
 why are you still here lol
+
+
+(Readme made by Unfnyst and Fmfg100)
