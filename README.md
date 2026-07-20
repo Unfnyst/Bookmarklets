@@ -3,11 +3,11 @@ Hello! This is Unfnyst's collection of super-awesome bookmarklets! its still a w
 
 <h1>What is a Bookmarklet?</h1>
 
-A bookmarklet is a bookmark that runs javascript. This part is a bit complicated, but URLs have a seperate protocol for javascript. Web browsers allow people to put these links in bookmarks.
+A bookmarklet is a bookmark that runs Javascript. It's basically a small JavaScript program that can be run in the browser, on the current webpage you're on.
 
 <h1>How do you run it?</h1>
 
-Copy and paste the javascript code into the bookmarks bar. It's that easy.
+Copy and paste the Javascript code into the bookmarks bar. It's that easy.
 
 <br>
 <br>
